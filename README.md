@@ -1,4 +1,9 @@
-### Hi!
+### Who am I?
 
-I'm currently working on this readme, come back later!
-In the meanwhile, check my site [here](https://xflea.github.io/).
+- Software engineer (almost)
+- Full-stack developer
+- CLI enthusiastic
+- Chess player
+- Tetris addicted
+
+For infos about my skills/projects/works check my [website](https://xflea.github.io/).
